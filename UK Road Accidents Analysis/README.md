@@ -1,6 +1,7 @@
 
 ## 📜 Read the Report
-🔗 **[Click here to view the full report]**
+🔗 [UK Road Accidents Analysis Report](reports/UK%20Road%20Accidents%20Severity%20Report.pdf)
+
 
 ## 📊 Key Findings
 - **Model with the highest accuracy:** LightGBM (**85.5% Accuracy**)
