@@ -1,6 +1,6 @@
 
 ## 📜 Read the Report
-🔗 **[Click here to view the full report]**
+🔗 [UK Road Accidents Analysis Report](Analysing%20Road%20Accidents%20Severity%20and%20Making%20Predictions%20Using%20Machine%20Learning%20Techniques.pdf)
 
 ## 📊 Key Findings
 - **Model with the highest accuracy:** LightGBM (**85.5% Accuracy**)
