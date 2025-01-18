@@ -1,5 +1,3 @@
-# Projects
-
 # 🚀 Data Science Projects Portfolio
 
 Welcome to my Data Science & Machine Learning portfolio! This repository contains various projects showcasing my skills in data analysis, machine learning, and predictive modeling.
