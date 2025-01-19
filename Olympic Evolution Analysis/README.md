@@ -18,9 +18,8 @@ This project explores **120 years of Olympic Games history** using **visual anal
 - **Performance Trends:** Tracking medal-winning countries over the decades.  
 - **Athlete Profiles:** Using **K-Means Clustering** to classify athletes based on physical traits.
 
-## 📜 Report & Poster  
-🔗 [Full Report](reports/Olympic_Games_Analysis.pdf)  
-🖼️ [Project Poster](reports/Olympic_Games_Poster.pdf)  
+## 📜 Report 
+🔗 [Full Report](Evolution%20of%20the%20Olympic%20Games.pdf)  
 
 ## 🚀 Future Work  
 - Use **deep learning models** for athlete performance prediction.
