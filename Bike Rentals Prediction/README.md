@@ -11,7 +11,7 @@ This project analyzes bike rental demand using **Multiple Linear Regression (MLR
 
 ## 📜 Report & Poster  
 🖼️ [View the Poster](reports/Bike_Rental_Poster.pdf)
-🔗 [Read the supplementary materials](Supplementary%materials.pdf)  
+🔗 [Read the supplementary materials](Supplementary%20materials.pdf)  
 
 ## 🚀 Future Work  
 - Test **time-series forecasting models**  
