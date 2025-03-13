@@ -19,4 +19,5 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **Trends in gender participation & sports diversity over 120 years**.
 
 ---
-
+- Currently working on projects involving NLP and Computer Vision Techniques (mainly focused on Neural Networks and Deep Learning).
+- Also working on improving Spark and Google Cloud skills.
