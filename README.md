@@ -28,3 +28,9 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - Tackled **class imbalance** with SMOTE, data augmentation, focal loss, and class-weighted training for robust performance.
 - Achieved **93% accuracy** with VGG-based CNN, outperforming traditional models on both precision and generalization.
 
+### 📌 [6. Heart Attack Risk Prediction using SVM and MLP](Heart%20Attack%20Risk%20Prediction/README.md)
+- Compared **SVM and MLP models** for heart attack risk prediction using clinical features from the Mendeley dataset.
+- Engineered features like **Pulse Pressure**, applied **permutation importance**, and used **Grid Search** for tuning.
+- Achieved up to **96.6% accuracy**, with MLP slightly outperforming SVM and **AUC scores up to 0.97**.
+
+
