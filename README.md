@@ -22,3 +22,9 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **Classified financial risk severity** in SEC filings using **TF-IDF + SVM** and **FinBERT** for domain-specific deep learning.
 - Applied **explainable AI (SHAP & LIME)** and **KeyBERT** to interpret model predictions and extract key financial risk terms.
 - **Achieved 75.3% accuracy** with traditional models, outperforming fine-tuned transformers on imbalanced financial datasets.
+
+### 📌 [5. Face Mask Detection using Classical and Deep Learning](Face%20Mask%20Detection%20Pipeline/README.md)
+- Built models using **SIFT + SVM**, **HOG + SVM/MLP**, and **CNN (VGG & MobileNetV3)** to classify mask usage into 3 categories.
+- Tackled **class imbalance** with SMOTE, data augmentation, focal loss, and class-weighted training for robust performance.
+- Achieved **93% accuracy** with VGG-based CNN, outperforming traditional models on both precision and generalization.
+
