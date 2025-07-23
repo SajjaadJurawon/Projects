@@ -3,7 +3,7 @@
 Welcome to my Data Science & Machine Learning portfolio! This repository contains various projects showcasing my skills in data analysis, machine learning, and predictive modeling.
 
 ## 🔹 Projects Included:
-### 📌 [1. Road Accident Severity Prediction](UK Road Accidents Analysis/README.md)
+### 📌 [1. Road Accident Severity Prediction](UK_Road_Accidents_Analysis/README.md)
 - Predicting accident severity using **Machine Learning models** (LightGBM, Random Forest).
 - **Data Preprocessing, EDA, Feature Engineering**.
 - **85.5% Accuracy & SHAP Analysis** to interpret model decisions.
