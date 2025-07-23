@@ -18,7 +18,7 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **GeoPandas & Tableau visualizations** for Olympic history.
 - **Trends in gender participation & sports diversity over 120 years**.
 
-### 📌 [4. Financial Risk Assessment using NLP](Financial%20Rsik%20Assessment%20using%20NLP/README.md)
+### 📌 [4. Financial Risk Assessment using NLP](Financial%20Risk%20Assessment%20using%20NLP/README.md)
 - **Classified financial risk severity** in SEC filings using **TF-IDF + SVM** and **FinBERT** for domain-specific deep learning.
 - Applied **explainable AI (SHAP & LIME)** and **KeyBERT** to interpret model predictions and extract key financial risk terms.
 - **Achieved 75.3% accuracy** with traditional models, outperforming fine-tuned transformers on imbalanced financial datasets.
