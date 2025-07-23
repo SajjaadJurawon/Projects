@@ -8,12 +8,12 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **Data Preprocessing, EDA, Feature Engineering**.
 - **85.5% Accuracy & SHAP Analysis** to interpret model decisions.
 
-### 📌 [2. Bike Rental Demand Prediction](Bike_Rental_Prediction/README.md)
+### 📌 [2. Bike Rental Demand Prediction](Bike%20Rental%20Prediction/README.md)
 - Forecasting bike rentals using **Multiple Linear Regression & Random Forest**.
 - **Hyperparameter tuning & feature engineering**.
 - **Seasonality & peak-hour analysis for better insights**.
 
-### 📌 [3. Evolution of the Olympic Games](Olympics_Evolution/README.md)
+### 📌 [3. Evolution of the Olympic Games](Olympics%20Evolution/README.md)
 - **Clustering athletes using K-Means** to analyze physical attributes.
 - **GeoPandas & Tableau visualizations** for Olympic history.
 - **Trends in gender participation & sports diversity over 120 years**.
