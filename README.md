@@ -13,7 +13,7 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **Hyperparameter tuning & feature engineering**.
 - **Seasonality & peak-hour analysis for better insights**.
 
-### 📌 [3. Evolution of the Olympic Games](Olympics%20Evolution/README.md)
+### 📌 [3. Evolution of the Olympic Games](Olympic%20Evolution%20Analysis/README.md)
 - **Clustering athletes using K-Means** to analyze physical attributes.
 - **GeoPandas & Tableau visualizations** for Olympic history.
 - **Trends in gender participation & sports diversity over 120 years**.
