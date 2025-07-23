@@ -8,7 +8,7 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - **Data Preprocessing, EDA, Feature Engineering**.
 - **85.5% Accuracy & SHAP Analysis** to interpret model decisions.
 
-### 📌 [2. Bike Rental Demand Prediction](Bike%20Rental%20Prediction/README.md)
+### 📌 [2. Bike Rental Demand Prediction](Bike%20Rentals%20Prediction/README.md)
 - Forecasting bike rentals using **Multiple Linear Regression & Random Forest**.
 - **Hyperparameter tuning & feature engineering**.
 - **Seasonality & peak-hour analysis for better insights**.
