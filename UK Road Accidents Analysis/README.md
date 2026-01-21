@@ -1,6 +1,7 @@
+# 🚗 Road Accident Severity Prediction  
 
-## 📜 Read the Report
-🔗 [UK Road Accidents Analysis Report](Analysing%20Road%20Accidents%20Severity%20and%20Making%20Predictions%20Using%20Machine%20Learning%20Techniques.pdf)
+## 📌 Overview  
+This project analyzes **road accident severity** using **Machine Learning models** to identify risk factors and improve road safety.
 
 ## 📊 Key Findings
 - **Model with the highest accuracy:** LightGBM (**85.5% Accuracy**)
@@ -13,4 +14,6 @@
 - Found that **rush hour and adverse weather increase severity**.
 - Applied **feature engineering** to improve model accuracy.
 
+## 📜 Read the Report
+🔗 [UK Road Accidents Analysis Report](Analysing%20Road%20Accidents%20Severity%20and%20Making%20Predictions%20Using%20Machine%20Learning%20Techniques.pdf)
 
