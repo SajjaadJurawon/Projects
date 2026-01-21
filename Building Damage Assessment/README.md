@@ -1,25 +1,43 @@
-# 🏅 Evolution of the Olympic Games: A Visual Analytics Approach
+# 🛰️ Building Damage Assessment from Satellite Imagery
 
-## 📌 Overview  
-This project explores **120 years of Olympic Games history** using **visual analytics** and **machine learning techniques**. We analyze the **diversity of participants, changes in sports, country performances, and athlete characteristics** over time using Python (Matplotlib, Geopandas) and Tableau.
+## 📌 Overview
+This project focuses on **automated post-disaster building damage assessment** using **high-resolution satellite imagery**.  
+A **two-stage deep learning pipeline** is developed to **localize buildings** and **classify damage severity**, supporting rapid disaster response and humanitarian decision-making.
 
-## 📊 Summary  
-- **Dataset:** Kaggle – Olympic Games Athletes & Results (1896-2016)  
-- **Key Insights:**
-  - The **Olympics have become more globally diverse**, with greater gender representation.
-  - **Sports evolve strategically** to attract new audiences (e.g., breakdancing in 2024).
-  - **Top-performing countries have changed**, with increased competitiveness.
-  - **Athletes’ physical attributes (BMI, height, weight) have diversified** due to new sports.
+The project is based on the **xBD dataset**, one of the largest publicly available datasets for disaster damage assessment.
 
-## 🏆 Key Analyses  
-- **Diversity Analysis:** Visualizing the expansion of global participation.  
-- **Gender Trends:** Analyzing the growth of female participation over time.  
-- **Sports Evolution:** Examining trends in new and removed sports.  
-- **Performance Trends:** Tracking medal-winning countries over the decades.  
-- **Athlete Profiles:** Using **K-Means Clustering** to classify athletes based on physical traits.
+---
 
-## 📜 Report 
-🔗 [Full Report](Evolution%20of%20the%20Olympic%20Games.pdf)  
+## 📊 Summary
 
-## 🚀 Future Work  
-- Use **deep learning models** for athlete performance prediction.
+- **Dataset:** xBD – Post-Disaster Satellite Imagery
+- **Approach:** Two-stage Computer Vision pipeline
+- **Key Contributions:**
+  - Building localisation using **object detection and segmentation** models
+  - Damage severity classification (**No Damage, Minor, Major, Destroyed**)
+  - Comparison of **CNNs and Vision Transformers** under class imbalance
+  - Model interpretability using **explainability techniques**
+
+---
+
+## 🏆 Key Analyses
+
+- **Building Localisation:** Evaluating object detection and segmentation models using IoU and mAP.
+- **Damage Classification:** Training CNNs (ResNet, EfficientNet) and Vision Transformers (ViT, DeiT).
+- **Imbalance Handling:** Applying class weighting and data augmentation strategies.
+- **Model Explainability:** Using SHAP-based analysis to interpret predictions.
+
+---
+
+## 📜 Report
+
+🔗 **[Full Report](Advancing%20Building%20Damage%20Assessment%20from%20Satellite%20Imagery.pdf)**
+
+---
+
+## 🚀 Future Work
+
+- End-to-end joint detection and damage classification
+- Temporal change detection across disaster timelines
+- Deployment as a web-based inference system
+
