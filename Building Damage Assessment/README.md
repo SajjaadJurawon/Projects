@@ -7,7 +7,7 @@ A **two-stage deep learning pipeline** is developed to **localize buildings** an
 The project is based on the **xBD dataset**, one of the largest publicly available datasets for disaster damage assessment.
 
 
-If you need the python script for the code, please contact me (sajjaad.jurawon@gmail.com).
+**If you need the python script for the code, please contact me (sajjaad.jurawon@gmail.com).**
 ---
 
 ## 📊 Summary
