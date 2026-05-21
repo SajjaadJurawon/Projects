@@ -38,7 +38,7 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - Built a **normalised PostgreSQL schema**, performed advanced **SQL analytics** (window functions, CTEs, vintage analysis), and visualised insights in a **Power BI dashboard**.
 - Trained a **LightGBM classifier** to predict borrower default, achieving **AUC 0.71** with DTI, interest rate, and loan grade as the strongest predictors.
 - 
-### 📌 [8. DamageVisionAI — Satellite Building Damage Assessment](Building%Damage%Assessment/README.md)
+### 📌 [8. DamageVisionAI — Satellite Building Damage Assessment](Building%20Damage%20Assessment/README.md)
 - Two-stage deep learning pipeline for **post-disaster building damage assessment** from satellite imagery, simulating real-world humanitarian response workflows.
 - **Stage 1 (Detection):** Compared ResNet50V2, FCOS, and YOLOv8 for building detection — YOLOv8 selected and optimised for best precision-recall balance.
 - **Stage 2 (Classification):** Progressive fine-tuning across ResNet-50, EfficientNet-B3, ViT-B/16, and DeiT-B across four damage classes (no-damage, minor, major, destroyed) — EfficientNet-B3 selected as best overall model with a custom OrdinalLoss function to enforce damage severity ordering.
