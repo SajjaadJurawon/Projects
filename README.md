@@ -33,4 +33,13 @@ Welcome to my Data Science & Machine Learning portfolio! This repository contain
 - Engineered features like **Pulse Pressure**, applied **permutation importance**, and used **Grid Search** for tuning.
 - Achieved up to **96.6% accuracy**, with MLP slightly outperforming SVM and **AUC scores up to 0.97**.
 
+### 📌 [7. LendIQ — Credit Risk Analytics Pipeline](LendIQ/README.md)
+- End-to-end credit risk pipeline on **2.26 million real Lending Club loan records** (2007-2018), simulating the workflow of a fintech credit risk analyst.
+- Built a **normalised PostgreSQL schema**, performed advanced **SQL analytics** (window functions, CTEs, vintage analysis), and visualised insights in a **Power BI dashboard**.
+- Trained a **LightGBM classifier** to predict borrower default, achieving **AUC 0.71** with DTI, interest rate, and loan grade as the strongest predictors.
+- 
+### 📌 [8. DamageVisionAI — Satellite Building Damage Assessment](Building%Damage%Assessment/README.md)
+- Two-stage deep learning pipeline for **post-disaster building damage assessment** from satellite imagery, simulating real-world humanitarian response workflows.
+- **Stage 1 (Detection):** Compared ResNet50V2, FCOS, and YOLOv8 for building detection — YOLOv8 selected and optimised for best precision-recall balance.
+- **Stage 2 (Classification):** Progressive fine-tuning across ResNet-50, EfficientNet-B3, ViT-B/16, and DeiT-B across four damage classes (no-damage, minor, major, destroyed) — EfficientNet-B3 selected as best overall model with a custom OrdinalLoss function to enforce damage severity ordering.
 
