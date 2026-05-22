@@ -34,7 +34,7 @@ The central business question: **given historical loan performance, which borrow
 | Modelling | LightGBM, Scikit-learn, Jupyter |
 
 ## 📜 Dashboard
-🔗 [Power BI Dashboard (PDF)](LendIQ/LendIQ_Dashboard.pdf)
+🔗 [Power BI Dashboard (PDF)](/LendIQ_/data_analysis_visuals.pdf)
 
 ## 🚀 Future Work
 - Incorporate bureau data and behavioural features to push AUC beyond 0.80
